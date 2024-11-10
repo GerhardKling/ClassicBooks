@@ -1,12 +1,12 @@
 # Classic Books and Papers
-This repository contains my code and material used for the playlist "Classic Books & Papers", which is available on my Youtube channel YUNIKARN. Visit [Our website](https://www.yunikarn.com) for more content.
+This repository contains my code and material for the playlist "Classic Books & Papers," which is available on my YouTube channel, [YUNIKARN](). Visit [Our website](https://www.yunikarn.com) for more content.
 
 ## C1: The Econometrics of Financial Markets
-We explore the classic book "The Econometrics of Financial Markets" by Campbell, Lo, and MacKinlay. More than 25 years after its publication, it remains a very useful source of information. I read this book as a graduate student in Economics, and it guided me through my PhD period. In contrast to many books covering econometrics, this book is actually a pleasure to read. Even without a strong mathematical background, most students should be able to understand the ideas presented. Let’s have a look inside. 
+We explore the classic book "The Econometrics of Financial Markets" by Campbell, Lo, and MacKinlay. More than 25 years after its publication, it remains a very useful source of information. I read this book as a graduate student in Economics, and it guided me through my PhD period. In contrast to many books covering econometrics, this book is a pleasure to read. Even without a strong mathematical background, most students should be able to understand the ideas presented. Let’s have a look inside. 
 ### [YouTube Video 1](https://youtu.be/8NwiTk8kiFo)
 
 ## C2: Event Study: Main Ideas
-We introduce Event Studies, which are used to quantify the impact of events on firms' value. We discuss estimation and event windows as well as normal returns. The latter is based on the constant-mean-return model and the market model. 
+We introduce Event Studies, which quantify the impact of events on firms' value. We discuss estimation and event windows as well as normal returns. The latter is based on the constant-mean-return model and the market model. 
 ### [GitHub](https://github.com/GerhardKling/DataAnalysisExcel)
 ### [YouTube Video 2](https://youtu.be/ZJRaON2kHJ4)
 
@@ -20,14 +20,13 @@ The Fundamental Methods of Mathematical Economics by Alpha Chiang is one of the 
 ### [YouTube Video 4](https://youtu.be/u6fidsRhjeA)
 
 ## C5: Event Study: Test Statistics
-This video derives confidence intervals for cumulated abnormal returns (CARs), which are used in event-studies. We discuss the underlying theory in detail and implement the theory using Excel.
+This video derives confidence intervals for cumulated abnormal returns (CARs) used in event studies. We discuss the underlying theory in detail and implement the theory using Excel.
 ### [GitHub](https://github.com/GerhardKling/DataAnalysisExcel)
 ### [YouTube Video 5](https://youtu.be/fySSRdyptIw)
 
 ## C6: Event Study: Excel Model
-This video discusses the implementation of a constant-mean return model in Excel. We calculate confidence intervals for cumulated abnormal returns (CARs), which are used in event studies. 
-### GitHub
-https://github.com/GerhardKling/DataAnalysisExcel
+This video discusses the implementation of a constant-mean return model in Excel. We calculate confidence intervals for cumulated abnormal returns (CARs) used in event studies. 
+### [GitHub](https://github.com/GerhardKling/DataAnalysisExcel)
 ### [YouTube Video 6](https://youtu.be/g0dakfG0-hs)
 
 ## C7: What is populism?
